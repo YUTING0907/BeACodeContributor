@@ -4,7 +4,7 @@
 
 本项目旨在解决开发者入门开源贡献时「找 Issue 难、析需求难、定方案难」的痛点，通过全自动化流程为开发者精准匹配可贡献任务：
 
-✨  助力开发者快速成为 GitHub开源项目 Contributor，利用LLM自动化分析 Issue， 自动化打通「Issue 获取 - 智能分析 - 飞书推送」全流程，降低开源项目贡献门槛，助力快速成长为 GitHub Contributor ✨
+✨  助力开发者快速成为 GitHub开源项目 Contributor，利用LLM自动化分析 Issue， 自动化打通「Issue 获取 - 智能分析 - 飞书推送」全流程，降低开源项目贡献门槛，助力快速成长为 10k+star仓库 Contributor ✨
 
 1.自动抓取 GitHub 平台上开源项目（如大数据相关 Apache Doris、Flink、Hive 等）的新增及历史 Issue；
 
