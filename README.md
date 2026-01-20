@@ -1,9 +1,10 @@
 # BeACodeContributor
 
-✨  助力开发者快速成为 GitHub开源项目 Contributor，利用LLM自动化分析 Issue， 自动化打通「Issue 获取 - 智能分析 - 飞书推送」全流程，降低开源项目贡献门槛，助力快速成长为 GitHub Contributor ✨
 📖 项目简介
 
-本项目旨在解决大数据开发者入门开源贡献时「找 Issue 难、析需求难、定方案难」的痛点，通过全自动化流程为开发者精准匹配可贡献任务：
+本项目旨在解决开发者入门开源贡献时「找 Issue 难、析需求难、定方案难」的痛点，通过全自动化流程为开发者精准匹配可贡献任务：
+
+✨  助力开发者快速成为 GitHub开源项目 Contributor，利用LLM自动化分析 Issue， 自动化打通「Issue 获取 - 智能分析 - 飞书推送」全流程，降低开源项目贡献门槛，助力快速成长为 GitHub Contributor ✨
 
 自动抓取 GitHub 平台上大数据相关开源项目（如 Apache Doris、Flink、Hive 等）的新增及历史 Issue，借助 MCP（Model Context Protocol）协议同步拉取 Issue 详情与项目 README 信息，补充上下文增强理解；再通过大模型深度解析 Issue 核心需求，明确所需技术栈、实现思路及步骤，最终将结构化分析结果推送至飞书，让开发者高效筛选适配自身能力的贡献任务。
 
