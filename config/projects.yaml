@@ -1,0 +1,54 @@
+# config/projects.yaml
+bigdata_projects:
+  - name: "spark"
+    owner: "apache"
+    category: "compute-engine"
+    tech_stack: ["Scala", "Java", "Python", "SQL"]
+    beginner_friendly: true
+    good_first_issue_labels: ["good-first-issue", "beginner-friendly"]
+    difficulty_levels:
+      beginner: ["documentation", "bug", "test"]
+      intermediate: ["feature", "optimization", "api"]
+      advanced: ["performance", "architecture", "scalability"]
+
+  - name: "flink"
+    owner: "apache"
+    category: "stream-processing"
+    tech_stack: ["Java", "Scala", "Python"]
+    beginner_friendly: true
+
+  - name: "kafka"
+    owner: "apache"
+    category: "messaging"
+    tech_stack: ["Java", "Scala"]
+    beginner_friendly: false
+
+  - name: "airflow"
+    owner: "apache"
+    category: "workflow"
+    tech_stack: ["Python", "Java"]
+    beginner_friendly: true
+
+  - name: "druid"
+    owner: "apache"
+    category: "olap"
+    tech_stack: ["Java"]
+    beginner_friendly: true
+
+  - name: "presto"
+    owner: "prestodb"
+    category: "query-engine"
+    tech_stack: ["Java"]
+    beginner_friendly: true
+
+  - name: "ray"
+    owner: "ray-project"
+    category: "distributed-computing"
+    tech_stack: ["Python", "C++"]
+    beginner_friendly: true
+
+  - name: "feast"
+    owner: "feast-dev"
+    category: "feature-store"
+    tech_stack: ["Python", "Java", "Go"]
+    beginner_friendly: true
