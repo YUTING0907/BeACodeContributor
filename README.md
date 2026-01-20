@@ -6,7 +6,7 @@
 
 ✨  助力开发者快速成为 GitHub开源项目 Contributor，利用LLM自动化分析 Issue， 自动化打通「Issue 获取 - 智能分析 - 飞书推送」全流程，降低开源项目贡献门槛，助力快速成长为 GitHub Contributor ✨
 
-自动抓取 GitHub 平台上大数据相关开源项目（如 Apache Doris、Flink、Hive 等）的新增及历史 Issue，借助 MCP（Model Context Protocol）协议同步拉取 Issue 详情与项目 README 信息，补充上下文增强理解；再通过大模型深度解析 Issue 核心需求，明确所需技术栈、实现思路及步骤，最终将结构化分析结果推送至飞书，让开发者高效筛选适配自身能力的贡献任务。
+自动抓取 GitHub 平台上开源项目（如大数据相关 Apache Doris、Flink、Hive 等）的新增及历史 Issue，借助 MCP（Model Context Protocol）协议同步拉取 Issue 详情与项目 README 信息，补充上下文增强理解；再通过大模型深度解析 Issue 核心需求，明确所需技术栈、实现思路及步骤，最终将结构化分析结果推送至飞书，让开发者高效筛选适配自身能力的贡献任务。
 
 ### 🚀 核心特性
 
@@ -19,3 +19,10 @@
 - 飞书实时推送：结构化推送分析结果（含 Issue 标题、难度等级、技术栈、解决方案），实时同步优质贡献机会。
 
 - 轻量可扩展：纯 Python 开发，模块化架构，易适配新大模型（OpenAI/豆包/通义千问等）、新增数据源或推送渠道，灵活满足个性化需求。
+
+### 推送样例展示
+<img src="https://github.com/user-attachments/assets/f6aaadb7-b1ea-4d94-8b31-42a5642caa61" width="300" style="border-radius: 8px; border: 1px solid #ddd;" />
+
+<img src="https://github.com/user-attachments/assets/f6aaadb7-b1ea-4d94-8b31-42a5642caa61" width="300" />
+
+
