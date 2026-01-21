@@ -27,8 +27,10 @@
 - 轻量可扩展：纯 Python 开发，模块化架构，易适配新大模型（OpenAI/豆包/通义千问等）、新增数据源或推送渠道，灵活满足个性化需求。
 
 ### 推送样例展示
+
+<img src="https://github.com/user-attachments/assets/da3ae4d8-71d1-4beb-b104-09e5d5d58835" width="300" style="border-radius: 8px; border: 1px solid #ddd;" />
+
 <img src="https://github.com/user-attachments/assets/f6aaadb7-b1ea-4d94-8b31-42a5642caa61" width="300" style="border-radius: 8px; border: 1px solid #ddd;" />
 
-<img src="https://github.com/user-attachments/assets/f6aaadb7-b1ea-4d94-8b31-42a5642caa61" width="300" />
 
 
